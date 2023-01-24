@@ -1,0 +1,7 @@
+backend/SolarBoatOwin/.vs
+backend/SolarBoatOwin/BoatSimulation/bin/
+backend/SolarBoatOwin/BoatSimulation/obj/
+backend/SolarBoatOwin/OwinWebApi/bin/
+backend/SolarBoatOwin/OwinWebApi/obj/
+backend/SolarBoatOwin/packages/
+react-admin-dashboard/node_modules

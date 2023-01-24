@@ -1,0 +1,3 @@
+﻿Scaffold-DbContext "Server=BUD-B2T07Y2\MSSQLSERVER_1;Database=SolarBoat;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -f -OutputDir DB/Models -ContextDir DB -Tables Data
+
+

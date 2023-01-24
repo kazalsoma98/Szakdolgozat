@@ -1,0 +1,9 @@
+
+import {axios} from 'axios';
+
+
+export GetAll()
+{
+    return axios.get("https://localhost:8080/api/values");
+}
+
